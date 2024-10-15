@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<système solaire>
+    <étoil>
+      <nom>Soleil</nom>
+	  <type_spectral>G2</type_spectral>
+	  <âge unit_milliard_d'année>5</âge>
+	</étoil>
+	<planètes>
+	    <planète>
+		  <planète type="tellurique">Carectère</planète>
+		   <nom>Mercure</nom>
+		   <distance unit="UA">0.4</distance>
+		   <masse unit="masse terrestre">0.06</masse>
+		   <diamètre unit"diamètre terrestre">0.4</diamètre>
+		</planète>
+		<planète>
+		    <planète type"tellurique">option</planète>
+			 <nom>Vénus</nom>
+			 <distance unit="UA">0.7</distance>
+			 <masse unit="masse terrestre">0.8</masse>
+			 <diamètre unit="diamètre terrestre">0.9</diamètre>
+		</planète>
+		<planète>
+		     <planète type="tellurique">exo</planète>
+			 <nom>Terre</nom>
+			 <distance unit="km">149600000</distance>
+			 <masse unit="kg">5.98e24</masse>
+			 <diamètre unit="km">12756</diamètre>
+			 <satellite nombre="1">exercice</satellite>
+	    </planète>
+		<planète>
+		     <planète type="tellurique">TP1</planète>
+			 <nom>Mars</nom>
+			 <distance unit="UA">1.5</distance>
+			 <masse unit="masse terrestre">0.1</masse>
+			 <diamètre unit="diamètre terrestre">0.5</diamètre>
+			 <satellite nombre="2">Blanc</satellite>
+		</planète>
+		<planète>
+		    <planète anneau="oui" type="gazeuse">moment</planète>
+			<nom>Jupiter</nom>
+			<distance unit="UA">5.2</distance>
+			<masse unit="masse terrestre>318</masse>
+			<diamètre unit="diamètre terrestre>11</diamètre>
+			<satellite nombre="16">valider</satellite>
+		</planète>
+		<planète>
+		   <planète anneau="oui" type="gazeuse">vaste</planète>
+		   <nom>Saturne</nom>
+		   <distance unit="UA">9.6</distance>
+		   <masse unit="masse terrestre">95</masse>
+		   <diamètre unit="diamètre terrestre>9.4</diamètre>
+		   <satellite nombre="18>bleu</satellite>
+		</planète>
+		<planète>
+		     <planète anneau="oui" type=gazeuse">courte</planète>
+			 <nom>Uranus</nom>
+			 <distance unit="UA">19.2</distance>
+			 <masse unit="masse terrestre">14.5</masse>
+			 <diamètre unit="diamètre terrestre">4</diamètre>
+			 <satellite nombre="15">noir</satellite>
+	    </planète>
+		<planète>
+		    <planète anneau="oui" type="gazeuse">température</planète>
+			<nom>Nepturne</nom>
+			<distance unit="UA">30.1</distance>
+			<masse unit="masse terrestre">17.2</masse>
+			<diamètre unit="diamètre terrestre">3.8</distance>
+			<satellite nombre="8>rose</satellite>
+		</planète>
+		<planète>
+		    <planète type="Kuiper">longue</planète>
+			<nom>Pluton</nom>
+			<distance unit="UA">39.4</distance>
+			<masse unit="masse terrestre">0.002</masse>
+			<diamètre unit="diamètre terrestre">0.2</diamètre>
+			<satellite nombre="1">rouge</satellite>
+		</planète>
+	<planètes>
+</système solaire>
+			 
+			 
+		
+			
+	
+			 
+			 
+	  

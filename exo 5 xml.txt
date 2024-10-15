@@ -1,0 +1,93 @@
+ </trimestre><?xml version="1.0" encoding="utf-8"?>
+ <classe>
+     <élève>Artur Martin
+	     <quartier ville="paris" num="75012">7 rue du chat noir</quartier>
+		 <date de_naissance>13décembre 1990</date de_naissance>
+		 <resultat>
+           <trimestre numero="1">
+          <franç>12</franç>
+	    <hist>14</hist>
+         <maths>9</maths>
+	     <physique>6</physique>
+		<dessin>14</dessin>
+     </trimestre>
+    
+
+     <trimestre numero="2">
+	    <franç>9</franç>
+	    <hist>17</hist>
+         <maths>7</maths>
+	     <physique>9</physique>
+		<dessin>12</dessin>
+     </trimestre>
+	<trimestre numero="3">
+		<franç>6</franç>
+		<hist>9</hist>
+		<maths>4</maths>
+		<physique>6</physique>
+          <dessin>13</dessin>
+	</trimestre>
+  </resultat>
+ </élève>
+ <élève>Zéo Lalune
+		 <quartier ville="paris" num_postal="75011">16 allée des chiens fous</quartier>
+		 <date de_naissance>13 décembre 1990</date de_naissance>
+		<resultat>
+		 <trimestre numero="1">
+		 <franç>13</franç>
+		 
+	      <hist>10</hist>
+           <maths>9</maths>
+		 <physique>16</physique>
+           <dessin></dessin>
+     </trimestre>
+     <trimestre numero="2">
+           < <franç>12</franç>
+	     <hist>10</hist>
+          <maths>11</maths>
+	    <physique>15</physique>
+		<dessin></dessin>
+     </trimestre>
+     <trimestre numero="3">
+          <franç>10</franç>
+	     <hist>10</hist>
+          <maths>11</maths>
+	     <physique>14</physique>
+		<dessin></dessin>
+     </trimestre>
+    </resultat>
+ </élève>
+ <élève>Théo Phile
+ <quartier ville="paris" num="75012">12 avenue de la pievoleuse</quartier>
+		 <date de_naissance>29 février 1991</date de_naissance>
+		<resultat>
+
+		 <trimestre numero="1">
+		 <franç>12</franç>
+		 
+	      <hist>14</hist>
+           <maths>8</maths>
+		 <physique>11</physique>
+           <dessin></dessin>
+     </trimestre>
+     <trimestre numero="2">
+           < <franç>9</franç>
+	     <hist>17</hist>
+          <maths>7</maths>
+	     <physique>9</physique>
+		<dessin></dessin>
+     </trimestre>
+     <trimestre numero="3">
+          <franç>10</franç>
+	     <hist>9</hist>
+          <maths>11</maths>
+	     <physique>13</physique>
+		<dessin></dessin>
+     </trimestre>
+    </resultat>
+   </élève>
+</classe>
+
+		 
+		 
+		 

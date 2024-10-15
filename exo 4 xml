@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<robes>
+   <robe>
+     <couleur>rose <! -- 1ere robe d'été -- ></couleur>
+	 <couleur>vert <! -- 2nd robe d'été -- ></couleur>
+	 <couleur>bleue <! -- 3eme robe d'hiver -- ></couleur>
+	</robe>
+	<pantalons>
+	  <pantalon>
+	    <couleur>blanc <! -- 1er pantalon d'été -- ></pantalon>
+		<couleur>beige <! -- 2nd pantalon d'hiver -- ></pantalon>
+	  </pantalon>
+	</pantalons>
+</robes>
